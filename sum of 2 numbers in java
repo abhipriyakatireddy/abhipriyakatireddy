@@ -1,0 +1,6 @@
+public class SumOfNumbers {
+public static main(String[] args){
+int a = 10;
+int b = 20;
+sum = inta+intb;
+System.out.println("the sum of numbers: +sum");
